@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: plantillablog
 title:  " blog "
-permalink: /pagina2/
+permalink: /blog/
 ---
 
 Contenido de la pagina
